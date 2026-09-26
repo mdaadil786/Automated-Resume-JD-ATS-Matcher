@@ -1,0 +1,24 @@
+Ryan Munoz
+Cloud Engineer
+blairamanda@example.com | New Kellystad
+
+SUMMARY
+Entry-level cloud engineer with practical project experience and problem-solving skills.
+Experienced with s3, terraform, aws, iam, ec2.
+
+SKILLS
+s3, terraform, aws, iam, ec2
+
+EXPERIENCE
+Software Engineering Intern | Example Technologies | 2025-2026
+- Built and tested application components using s3.
+- Collaborated with engineers and documented technical changes.
+- Debugged issues and participated in code reviews.
+
+PROJECTS
+- Developed a portfolio project using s3 and terraform.
+- Implemented APIs, testing and data persistence where applicable.
+
+EDUCATION
+B.Tech / B.E. in Engineering
+2026

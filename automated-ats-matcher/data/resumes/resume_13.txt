@@ -1,0 +1,24 @@
+Brittany Farmer
+Data Analyst
+georgetracy@example.org | Natashaport
+
+SUMMARY
+Entry-level data analyst with practical project experience and problem-solving skills.
+Experienced with pandas, numpy, python, excel, sql, power bi.
+
+SKILLS
+pandas, numpy, python, excel, sql, power bi
+
+EXPERIENCE
+Software Engineering Intern | Example Technologies | 2025-2026
+- Built and tested application components using pandas.
+- Collaborated with engineers and documented technical changes.
+- Debugged issues and participated in code reviews.
+
+PROJECTS
+- Developed a portfolio project using pandas and numpy.
+- Implemented APIs, testing and data persistence where applicable.
+
+EDUCATION
+B.Tech / B.E. in Engineering
+2026

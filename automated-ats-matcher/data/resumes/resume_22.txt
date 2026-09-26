@@ -1,0 +1,24 @@
+James Brown
+Python Developer
+ysmith@example.com | Mitchellside
+
+SUMMARY
+Entry-level python developer with practical project experience and problem-solving skills.
+Experienced with pandas, flask, fastapi, docker, python.
+
+SKILLS
+pandas, flask, fastapi, docker, python
+
+EXPERIENCE
+Software Engineering Intern | Example Technologies | 2025-2026
+- Built and tested application components using pandas.
+- Collaborated with engineers and documented technical changes.
+- Debugged issues and participated in code reviews.
+
+PROJECTS
+- Developed a portfolio project using pandas and flask.
+- Implemented APIs, testing and data persistence where applicable.
+
+EDUCATION
+B.Tech / B.E. in Engineering
+2026

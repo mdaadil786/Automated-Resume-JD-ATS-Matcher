@@ -1,0 +1,24 @@
+Michele Williams
+QA Engineer
+kendragalloway@example.org | South Joshuastad
+
+SUMMARY
+Entry-level qa engineer with practical project experience and problem-solving skills.
+Experienced with jenkins, api, git, sql.
+
+SKILLS
+jenkins, api, git, sql
+
+EXPERIENCE
+Software Engineering Intern | Example Technologies | 2025-2026
+- Built and tested application components using jenkins.
+- Collaborated with engineers and documented technical changes.
+- Debugged issues and participated in code reviews.
+
+PROJECTS
+- Developed a portfolio project using jenkins and api.
+- Implemented APIs, testing and data persistence where applicable.
+
+EDUCATION
+B.Tech / B.E. in Engineering
+2026

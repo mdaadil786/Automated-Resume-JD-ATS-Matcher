@@ -1,0 +1,24 @@
+David Bradley
+Cloud Engineer
+millertodd@example.org | East Donna
+
+SUMMARY
+Entry-level cloud engineer with practical project experience and problem-solving skills.
+Experienced with aws, iam, terraform.
+
+SKILLS
+aws, iam, terraform
+
+EXPERIENCE
+Software Engineering Intern | Example Technologies | 2025-2026
+- Built and tested application components using aws.
+- Collaborated with engineers and documented technical changes.
+- Debugged issues and participated in code reviews.
+
+PROJECTS
+- Developed a portfolio project using aws and iam.
+- Implemented APIs, testing and data persistence where applicable.
+
+EDUCATION
+B.Tech / B.E. in Engineering
+2026

@@ -1,0 +1,19 @@
+JOB TITLE: Cloud Engineer
+
+ABOUT THE ROLE
+We are looking for a Cloud Engineer to build reliable and maintainable solutions.
+
+RESPONSIBILITIES
+- Design, implement, test and maintain software.
+- Collaborate with engineers and stakeholders.
+- Debug issues and improve reliability.
+- Participate in documentation and code reviews.
+
+REQUIRED SKILLS
+aws, ec2, s3, iam, docker, terraform
+
+PREFERRED
+Strong problem-solving, communication and ability to learn new technologies.
+
+EDUCATION
+Bachelor's degree in Computer Science, Engineering or related discipline.

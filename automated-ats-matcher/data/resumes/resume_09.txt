@@ -1,0 +1,24 @@
+Justin Baker
+DevOps Engineer
+zhurst@example.com | East William
+
+SUMMARY
+Entry-level devops engineer with practical project experience and problem-solving skills.
+Experienced with docker, linux, jenkins.
+
+SKILLS
+docker, linux, jenkins
+
+EXPERIENCE
+Software Engineering Intern | Example Technologies | 2025-2026
+- Built and tested application components using docker.
+- Collaborated with engineers and documented technical changes.
+- Debugged issues and participated in code reviews.
+
+PROJECTS
+- Developed a portfolio project using docker and linux.
+- Implemented APIs, testing and data persistence where applicable.
+
+EDUCATION
+B.Tech / B.E. in Engineering
+2026

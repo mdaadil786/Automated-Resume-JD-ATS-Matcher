@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flask Backend",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/run_backend.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Streamlit Frontend",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "frontend/streamlit_app.py"],
+      "console": "integratedTerminal"
+    }
+  ]
+}

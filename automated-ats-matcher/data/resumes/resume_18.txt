@@ -1,0 +1,24 @@
+Miranda Khan
+Frontend Developer
+esanchez@example.com | North Collin
+
+SUMMARY
+Entry-level frontend developer with practical project experience and problem-solving skills.
+Experienced with javascript, typescript, html, react, css, git.
+
+SKILLS
+javascript, typescript, html, react, css, git
+
+EXPERIENCE
+Software Engineering Intern | Example Technologies | 2025-2026
+- Built and tested application components using javascript.
+- Collaborated with engineers and documented technical changes.
+- Debugged issues and participated in code reviews.
+
+PROJECTS
+- Developed a portfolio project using javascript and typescript.
+- Implemented APIs, testing and data persistence where applicable.
+
+EDUCATION
+B.Tech / B.E. in Engineering
+2026

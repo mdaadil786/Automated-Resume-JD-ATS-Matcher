@@ -1,0 +1,24 @@
+Henry Santiago
+ML Engineer
+lynchgeorge@example.net | East Steven
+
+SUMMARY
+Entry-level ml engineer with practical project experience and problem-solving skills.
+Experienced with pytorch, numpy, python, pandas.
+
+SKILLS
+pytorch, numpy, python, pandas
+
+EXPERIENCE
+Software Engineering Intern | Example Technologies | 2025-2026
+- Built and tested application components using pytorch.
+- Collaborated with engineers and documented technical changes.
+- Debugged issues and participated in code reviews.
+
+PROJECTS
+- Developed a portfolio project using pytorch and numpy.
+- Implemented APIs, testing and data persistence where applicable.
+
+EDUCATION
+B.Tech / B.E. in Engineering
+2026
